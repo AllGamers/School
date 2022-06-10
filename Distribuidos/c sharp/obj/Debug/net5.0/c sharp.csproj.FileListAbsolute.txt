@@ -1,0 +1,16 @@
+D:\ESCOM\Distribuidos\Programacion\c sharp\bin\Debug\net5.0\c sharp.exe
+D:\ESCOM\Distribuidos\Programacion\c sharp\bin\Debug\net5.0\c sharp.deps.json
+D:\ESCOM\Distribuidos\Programacion\c sharp\bin\Debug\net5.0\c sharp.runtimeconfig.json
+D:\ESCOM\Distribuidos\Programacion\c sharp\bin\Debug\net5.0\c sharp.runtimeconfig.dev.json
+D:\ESCOM\Distribuidos\Programacion\c sharp\bin\Debug\net5.0\c sharp.dll
+D:\ESCOM\Distribuidos\Programacion\c sharp\bin\Debug\net5.0\ref\c sharp.dll
+D:\ESCOM\Distribuidos\Programacion\c sharp\bin\Debug\net5.0\c sharp.pdb
+D:\ESCOM\Distribuidos\Programacion\c sharp\obj\Debug\net5.0\c sharp.csproj.AssemblyReference.cache
+D:\ESCOM\Distribuidos\Programacion\c sharp\obj\Debug\net5.0\c sharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESCOM\Distribuidos\Programacion\c sharp\obj\Debug\net5.0\c sharp.AssemblyInfoInputs.cache
+D:\ESCOM\Distribuidos\Programacion\c sharp\obj\Debug\net5.0\c sharp.AssemblyInfo.cs
+D:\ESCOM\Distribuidos\Programacion\c sharp\obj\Debug\net5.0\c sharp.csproj.CoreCompileInputs.cache
+D:\ESCOM\Distribuidos\Programacion\c sharp\obj\Debug\net5.0\c sharp.dll
+D:\ESCOM\Distribuidos\Programacion\c sharp\obj\Debug\net5.0\ref\c sharp.dll
+D:\ESCOM\Distribuidos\Programacion\c sharp\obj\Debug\net5.0\c sharp.pdb
+D:\ESCOM\Distribuidos\Programacion\c sharp\obj\Debug\net5.0\c sharp.genruntimeconfig.cache
